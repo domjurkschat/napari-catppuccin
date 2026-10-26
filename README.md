@@ -2,8 +2,6 @@
 
 [![License BSD-3](https://img.shields.io/pypi/l/napari-catppuccin.svg?color=green)](https://github.com/domjurkschat/napari-catppuccin/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-catppuccin.svg?color=green)](https://pypi.org/project/napari-catppuccin)
-[![Python Version](https://img.shields.io/pypi/pyversions/napari-catppuccin.svg?color=green)](https://python.org)
-[![tests](https://github.com/domjurkschat/napari-catppuccin/actions/workflows/test_and_deploy.yml/badge.svg)](https://github.com/domjurkschat/napari-catppuccin/actions)
 [![napari hub](https://img.shields.io/endpoint?url=https://api.napari-hub.org/shields/napari-catppuccin)](https://napari-hub.org/plugins/napari-catppuccin)
 [![npe2](https://img.shields.io/badge/plugin-npe2-blue?link=https://napari.org/stable/plugins/index.html)](https://napari.org/stable/plugins/index.html)
 
